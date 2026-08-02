@@ -54,23 +54,23 @@
     ]
   },
   {
-    "name": "",
+    "name": "Nitro Strings Attached",
     "id": "1",
-    "available": false,
+    "available": true,
     "entries": [{
-        "name": "",
-        "url": "",
+        "name": "Dani",
+        "url": "https://www.youtube.com/embed/1nCkOVCuAPk?si=Z5osLFTGyWQcFXwx&amp;start=57",
         "vehicles": {
-          "1": 24,
-          "2": 33,
-          "3": 31,
-          "4": 4
+          "1": 34,
+          "2": 9,
+          "3": 32,
+          "4": 18
         },
         "pieces":{
-         "1": [19, 17, 14, 3],
-          "2": [19, 14, 7, 3],
-          "3": [19, 11, 12, 7],
-          "4": [12, 11, 3]
+         "1": [7, 19, 3],
+          "2": [8, 19, 3],
+          "3": [7, 2, 11, 4],
+          "4": [19, 14, 3]
         }
       }
     ]
