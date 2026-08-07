@@ -1,65 +1,49 @@
 [
   {
-    "name": "Vagabolt",
+    "name": "Nitro Strings Attached",
     "id": "0",
     "available": true,
     "entries": [{
         "name": "Vereshchak",
-        "url": "https://www.youtube.com/embed/OhPilqcSWZw?si=BUTEue1NZmLOESgE&amp;start=284",
+        "url": "https://www.youtube.com/embed/0_jH3bt56U0?si=8skeO5zFFsJnPK3A&amp;start=228",
         "vehicles": {
-          "1": 24,
-          "2": 33,
-          "3": 31,
+          "1": 34,
+          "2": 9,
+          "3": 18,
           "4": 4
         },
         "pieces":{
-         "1": [14, 3, 17, 19],
-          "2": [14, 19, 3, 7],
-          "3": [12, 7, 19, 11],
+         "1": [7, 3, 19],
+          "2": [8, 3, 19],
+          "3": [2, 11, 6, 14],
           "4": [12, 11, 3]
         }
       },
      {
         "name": "Vokope YT",
-        "url": "https://www.youtube.com/embed/AZHMVUEJ8TU?si=9h5S4AYs0vnQ66Hm&amp;start=210",
+        "url": "https://www.youtube.com/embed/owTucHhazOg?si=fOeVcYckUkkHBe8S&amp;start=227",
         "vehicles": {
-          "1": 24,
-          "2": 33,
-          "3": 23,
-          "4": 31
-        },
-        "pieces":{
-         "1": [3, 14, 17, 19],
-          "2": [7, 3, 14, 19],
-          "3": [12, 7, 3, 18],
-          "4": [12, 3, 11]
-        }
-      },
-      {
-        "name": "Zorro",
-        "url": "https://www.youtube.com/embed/Kam7Gp6KIBk?si=LrjiIRLrtDyDgoA4&amp;start=4" ,
-        "vehicles": {
-          "1": 24,
-          "2": 33,
-          "3": 31,
+          "1": 34,
+          "2": 9,
+          "3": 18,
           "4": 4
         },
         "pieces":{
-         "1": [3, 14, 17, 19],
-          "2": [3, 7, 14, 19],
-          "3": [7, 11, 12, 19],
-          "4": [3, 11, 12, 16]
+         "1": [19, 3, 7],
+          "2": [8, 3, 18, 19],
+          "3": [14, 11, 7, 2],
+          "4": [12, 3, 11]
         }
       }
     ]
   },
   {
-    "name": "Nitro Strings Attached",
+    "name": "",
     "id": "1",
-    "available": true,
+    "available": false,
     "entries": [{
-        "name": "Dani",
-        "url": "https://www.youtube.com/embed/1nCkOVCuAPk?si=Z5osLFTGyWQcFXwx&amp;start=57",
+        "name": "",
+        "url": "",
         "vehicles": {
           "1": 34,
           "2": 9,
