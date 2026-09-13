@@ -1,11 +1,11 @@
 [
   {
-    "name": "Break-neck Bill",
+    "name": "",
     "id": "0",
     "available": false,
     "entries": [{
-        "name": "Vereshchak",
-        "url": "https://www.youtube.com/embed/emKy-0KjVjk?si=HB5rQKRz-uTQBG2Q&amp;start=12", 
+        "name": "",
+        "url": "", 
         "vehicles": {
           "1": 14,
           "2": 29,
@@ -22,8 +22,8 @@
         }
       },
      {
-        "name": "Vokope YT",
-        "url": "https://www.youtube.com/embed/axo6fdOc0E8?si=_DGfwOqNlUypXSvn&amp;start=160",
+        "name": "",
+        "url": "",
         "vehicles": {
           "1": 14,
           "2": 29,
